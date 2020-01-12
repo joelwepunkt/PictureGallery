@@ -14,19 +14,19 @@
     <fragment
         android:id="@+id/nav_galleryhome"
         android:name="com.example.pictureslider.ui.galleryhome.GalleryhomeFragment"
-        android:label="Galleryhome"
+        android:label="Gallery"
         tools:layout="@layout/fragment_galleryhome" />
 
     <fragment
         android:id="@+id/nav_gallerycamera"
         android:name="com.example.pictureslider.ui.gallerycamera.GallerycameraFragment"
-        android:label="Gallerycamera"
+        android:label="Camera"
         tools:layout="@layout/fragment_gallerycamera" />
 
     <fragment
         android:id="@+id/nav_galleryscreenshot"
         android:name="com.example.pictureslider.ui.galleryscreenshot.GalleryscreenshotFragment"
-        android:label="Galleryscreenshot"
+        android:label="Screenshot"
         tools:layout="@layout/fragment_galleryscreenshot" />
 
 </navigation>
